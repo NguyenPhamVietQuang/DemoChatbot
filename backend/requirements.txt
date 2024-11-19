@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+python-dotenv
+autogen==0.3.0
+langchain_community
